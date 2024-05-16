@@ -10,5 +10,7 @@ The insights which I got after performing the analysis are
 6. Shipping type preferred by people from most preferred to least preferred- Free shipping, Express, Store pickup, Standard, 2-Day Shipping, Next-day Air.
 7. Sales cannot be improved using promo codes technique as many people are still not using promocodes.
 
+The data which I have used from Kaggle is given above in the repository as shopping_trends.csv
+
 You can view the dashboard directly from tableau public using:
 https://public.tableau.com/views/CustomerShoppingExploratoryAnalysis/CustomerShoppingExploratoryAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
